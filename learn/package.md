@@ -9,7 +9,7 @@ nav_order: 1
 # Gno Package
 
 
-Gno pacakge is similar to go pacakge concept. It provides a groupe of reusable library code. 
+Gno package is similar to go pacakge concept. It provides a groupe of reusable library code. 
 
 Here is the difference thought.
 
